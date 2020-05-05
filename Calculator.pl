@@ -40,4 +40,4 @@ while(1){
     default{push(@stack, $in);}
   }
 }
-say "You did well! :)";
+say "You did even better than well!";
